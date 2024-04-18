@@ -1,0 +1,21 @@
+{
+  "data" : [ {
+    "id" : "IC585",
+    "ename" : "kiran",
+    "age" : 10
+  }, {
+    "id" : "IC587",
+    "ename" : "VIDHYA",
+    "age" : 12
+  } ],
+  "dataone" : {
+    "id" : "IC585",
+    "ename" : "kiran",
+    "age" : 10
+  },
+  "datatwo" : {
+    "id" : "IC587",
+    "ename" : "VIDHYA",
+    "age" : 12
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "age" : 12,
+  "phno" : [ 1234, 4569 ],
+  "spouse" : {
+    "age" : 19,
+    "phno" : [ 78945, 96325 ],
+    "name" : "Vikranth"
+  },
+  "ename" : "Kiran",
+  "id" : "IC581"
+}
